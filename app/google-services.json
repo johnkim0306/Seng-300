@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1074742906662",
+    "firebase_url": "https://spermi-2f2cb.firebaseio.com",
+    "project_id": "spermi-2f2cb",
+    "storage_bucket": "spermi-2f2cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074742906662:android:d1ee29149830d6a5",
+        "android_client_info": {
+          "package_name": "com.example.john.pratice01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074742906662-mjng2e4ruifd8tf1miku0fd99i5jr40u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.john.pratice01",
+            "certificate_hash": "ff044aaf5a0865053a5f15b229984622a2fcc985"
+          }
+        },
+        {
+          "client_id": "1074742906662-8erqhrrrft87hsr2ac93e347bsiavabp.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1074742906662-8erqhrrrft87hsr2ac93e347bsiavabp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwgB_g9KzK2El3UbFatDKxpZIW4dMe7gU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074742906662-8erqhrrrft87hsr2ac93e347bsiavabp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
